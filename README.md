@@ -1,13 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sushant Kumar
 =====================================================================================================================================
 
-🧑‍💻 WEB DEVELOPER
-Frontend developer 💻, creating dynamic web experiences with Next.js, Astro, and TypeScript 🌐 while diving into the latest in tech 🚀.
+🧑‍💻 **WEB DEVELOPER**  
+------------------
 
-🌍 Based in Dehradun, Uttarakhand
-✉️ Contact me at isushaant@gmail.com
-🤝 Open to collaborating on 🌐 open source
-🎧 Audiophile and tech enthusiast
+Passionate about crafting high-quality web applications with a strong focus on frontend development using modern technologies. Experienced in building dynamic user interfaces and seamless user experiences.
+
+**Tech Stack:**  
+- **Frontend:** Next.js, Astro, TypeScript, React, HTML5, CSS3  
+- **Version Control:** Git, GitHub  
+- **Build Tools:** Webpack, Vite  
+- **UI/UX:** Ant Design, Material-UI, Shadcn  
+
+* 🌍 Based in Dehradun, Uttarakhand  
+* ✉️ Contact me at [isushaant@gmail.com](mailto:isushaant@gmail.com)  
+* 🤝 Open to collaborating on 🌐 open source projects  
+* 🎧 Audiophile and tech enthusiast  
 
 ### Skills
 
