@@ -1,16 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sushant Kumar
 =====================================================================================================================================
 
-🧑‍💻WEB DEVELOPER
-------------------
+🧑‍💻 WEB DEVELOPER
+Frontend developer 💻, creating dynamic web experiences with Next.js, Astro, and TypeScript 🌐 while diving into the latest in tech 🚀.
 
-Aspiring full-stack developer 🖥️, coding my way through the MERNiverse 🌐 and jamming to the rhythm of tech 🎧, while hunting for job opportunities 🚀.
-
-* 🌍  I'm based in Dehradun, Uttarakhand
-* ✉️  You can contact me at [isushaant@gmail.com](mailto:isushaant@gmail.com)
-* 🧠  I'm learning MERN Stack Development
-* 🤝  I'm open to collaborating on 🌐 open source
-* ⚡  I'm an 🎧audiophile
+🌍 Based in Dehradun, Uttarakhand
+✉️ Contact me at isushaant@gmail.com
+🤝 Open to collaborating on 🌐 open source
+🎧 Audiophile and tech enthusiast
 
 ### Skills
 
