@@ -10,7 +10,8 @@ Passionate about crafting high-quality web applications with a strong focus on f
 - **Frontend:** Next.js, Astro, TypeScript, React, HTML5, CSS3  
 - **Version Control:** Git, GitHub  
 - **Build Tools:** Webpack, Vite  
-- **UI/UX:** Ant Design, Material-UI, Shadcn  
+- **UI/UX:** Ant Design, Material-UI, Shadcn
+- **Testing:** Jest, React Testing Library, Cypress  
 
 
 ### Skills
