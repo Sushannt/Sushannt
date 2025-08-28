@@ -1,18 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sushant Kumar
 =====================================================================================================================================
 
-🧑‍💻 **WEB DEVELOPER**  
-------------------
+## 🧑‍💻 **FULL STACK DEVELOPER**
 
-Passionate about crafting high-quality web applications with a strong focus on frontend development using modern technologies. Experienced in building dynamic user interfaces and seamless user experiences.
+Passionate about building scalable, high-performance web applications with expertise across both frontend and backend. Skilled in designing clean architectures, crafting intuitive UIs, and implementing robust server-side solutions. Experienced in delivering end-to-end applications that are efficient, maintainable, and user-focused.
 
-### Tech Stack  
-- **Frontend:** Next.js, Astro, TypeScript, React, HTML5, CSS3  
-- **Version Control:** Git, GitHub  
-- **Build Tools:** Webpack, Vite  
-- **UI/UX:** Ant Design, Material-UI, Shadcn
-- **Testing:** Jest, React Testing Library, Cypress  
+### Tech Stack
 
+* **Frontend:** Next.js, Astro, React, TypeScript, HTML5, CSS3
+* **Backend:** NestJS, Node.js, GraphQL, REST APIs
+* **Databases:** PostgreSQL, MongoDB, Redis
+* **Message Queues & Jobs:** BullMQ
+* **UI/UX:** Ant Design, Material-UI, Shadcn
+* **Build Tools:** Vite, Webpack, Turbo
+* **Testing & QA:** Jest, React Testing Library, Cypress
+* **Version Control & Collaboration:** Git, GitHub, Gitlab
 
 ### Skills
 
@@ -21,7 +23,7 @@ Passionate about crafting high-quality web applications with a strong focus on f
 </p>
 
 ### About Me
-* 🌍 Based in Dehradun, Uttarakhand  
+* 🌍 Currently in Chandigarh  
 * ✉️ Contact me at [isushaant@gmail.com](mailto:isushaant@gmail.com)  
 * 🤝 Open to collaborating on 🌐 open source projects  
 * 🎧 Audiophile and tech enthusiast  
